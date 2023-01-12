@@ -1,22 +1,22 @@
 let subList = [
   {
     id: 0,
-    title: "²¿ºÎ±â",
-    content: "¹°/ÀÏ¹İ",
+    title: "ê¼¬ë¶€ê¸°",
+    content: "ë¬¼",
     price: 13000,
   },
 
   {
     id: 1,
-    title: "ÇÇÄ«Ãò",
-    content: "Àü±â/ÀÏ¹İ",
+    title: "í”¼ì¹´ì¸„",
+    content: "ì „ê¸°",
     price: 110000,
   },
 
   {
     id: 2,
-    title: "¹Â",
-    content: "/Àü¼³",
+    title: "ë®¤",
+    content: "ì—ìŠ¤í¼",
     price: 1300000,
   },
 ];
